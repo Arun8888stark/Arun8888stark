@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Arun%20Sandosh%20Subramaniam%20S%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Pre-Final%20Year%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Arun%20Sandosh%20Subramaniam&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Pre-Final%20Year%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Arun8888stark">
@@ -28,7 +28,7 @@
   <img src="https://streak-stats.demolab.com/?user=Arun8888stark&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Arun8888stark's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Arun8888stark&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arun Sandosh Subramaniam S S's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Arun8888stark&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arun Sandosh Subramaniam's GitHub Trophies" />
 </p>
 
 
