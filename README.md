@@ -1,9 +1,9 @@
 <table>
 <tr>
-
 <td width="48%" valign="top">
 
-<pre>
+<pre style="color:#00ff66;background-color:#0d1117;border:0;font-family:monospace;font-size:10px;line-height:1.0;">
+
 >%##%[}@%^****=....................=)))))))))))))))))[#%%%%%
 >%##%[}@%^****=....................=)))))))))))))))))[#%%%%%
 >%##%[}%%^****=....................=)))))))))))))))))[#%%%%%
@@ -34,124 +34,120 @@
 %@@@@@%@%^>}###}[}%%@#[%@@%%@%@@@@@@@%@@#}#%)^^#%%@@@@@@%#%@
 %@@@}[}@@}[}#%@##@%=>%}##%@@%%@@@@@%@@@}##%@@%@@@%@@%@@@@@@@
 @@@[}[(*}@@@@%@@#%@)=}%}#}%@%@@@@@@@%@%#[}%%)[>%@%@@%%@%@%%%
-@@@@%#}[#%@@%@@@%@@@%%@####%@%@@@%@@@%@%%@@@@@@@@@@@@@@@%%@@
+@@@@%#}[#%@@%@@@%@@@%%@####%@%@@%@@@%@%%@@@@@@@@@@@@@@@%%@@
 @@@@%%@@@@@%@@@@@@%%%##@@@@@%%%%%%@@%%@@@%%##}(%@%@@@@@@@@@@
 @@@@@%@@@@@@@@@@@@%@%%%@%@@%%%@%%%@@%}}###%%%#}}%@@@%@@@@@@@
 @@@@@@@@@@@@@@@@%@@@%%%%%((#@%@@@[%([%%%)(%%}>[[#@@@@@@@@@@@
+
 </pre>
 
 </td>
 
 <td width="52%" valign="top">
 
-<h2>arun@github</h2>
+<pre style="color:#00ff66;background-color:#0d1117;border:0;font-family:monospace;font-size:13px;line-height:1.35;">
 
-<pre>
-┌─────────────────────────────────────────┐
-│ SYSTEM                                  │
-├─────────────────────────────────────────┤
-│ OS          : Windows 11                │
-│ Host        : Coimbatore, India         │
-│ Role        : B.Tech AI & Data Science  │
-│ IDE         : VS Code                   │
-│ Focus       : AI / ML / Software Dev    │
-└─────────────────────────────────────────┘
+arun@github
+────────────────────────────────────────────────
 
+OS................. Windows 11
+Uptime............. 19 years
+Host............... Coimbatore, India
+Role............... B.Tech AI & Data Science
+IDE................ VS Code
+Focus.............. AI / ML / Software Development
 
-┌─────────────────────────────────────────┐
-│ CURRENT STATUS                          │
-├─────────────────────────────────────────┤
-│ AWS AI & ML Scholar                     │
-│ Building AI/ML Projects                 │
-│ Exploring Cloud & Generative AI        │
-│ Participating in Hackathons            │
-└─────────────────────────────────────────┘
+────────────────────────────────────────────────
 
+Languages.Programming
+Python............. ████████████████████
+Java............... █████████████████
+C++................ ███████████████
+SQL................ █████████████
 
-┌─────────────────────────────────────────┐
-│ LANGUAGES & TECHNOLOGIES                │
-├─────────────────────────────────────────┤
-│ Python • Java • C++ • SQL               │
-│ Flask • Pandas • NumPy                 │
-│ Scikit-learn • Machine Learning        │
-│ Git • GitHub • VS Code                 │
-│ HTML • CSS • JavaScript                │
-└─────────────────────────────────────────┘
+Languages.Framework
+Flask.............. █████████████████
+Scikit-learn....... █████████████████
+Pandas............. ████████████████
+NumPy.............. ████████████████
 
+Languages.Real
+English............ █████████████████
+Tamil.............. ███████████████
 
-┌─────────────────────────────────────────┐
-│ PROJECTS                                │
-├─────────────────────────────────────────┤
-│ > Heart Disease Prediction              │
-│ > RetailMind AI                         │
-│ > Smart Safety Helmet                   │
-│ > Blockchain Supply Chain               │
-└─────────────────────────────────────────┘
+────────────────────────────────────────────────
 
+AWS AI & ML Scholar
+Machine Learning
+Generative AI
+Hackathons
+IoT & Smart Devices
 
-┌─────────────────────────────────────────┐
-│ INTERESTS                               │
-├─────────────────────────────────────────┤
-│ > Artificial Intelligence               │
-│ > Machine Learning                      │
-│ > Generative AI                         │
-│ > IoT & Smart Devices                   │
-│ > Hackathons                            │
-└─────────────────────────────────────────┘
+────────────────────────────────────────────────
+
+Hobbies.Software
+AI / ML
+Building Projects
+Problem Solving
+
+Hobbies.Hardware
+IoT
+Smart Devices
+Technology
 
 </pre>
 
 </td>
-
 </tr>
 </table>
 
-## `> GitHub Stats`
+<pre style="color:#00ff66;background-color:#0d1117;border:0;font-family:monospace;font-size:13px;line-height:1.35;">
+
+──────────────────── Contact ────────────────────
+
+LinkedIn........... linkedin.com/in/arun-sandosh-subramaniam-b547b2374
+LeetCode........... leetcode.com/u/Arun_Sandosh/
+Email.............. arun8888stark@gmail.com
+GitHub............. github.com/Arun8888stark
+
+──────────────────── Projects ───────────────────
+
+Heart Disease Prediction
+RetailMind AI
+Smart Safety Helmet
+Blockchain Agricultural Supply Chain
+
+──────────────────── GitHub Stats ───────────────
+
+</pre>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arun8888stark&show_icons=true&theme=github_dark&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun8888stark&layout=compact&theme=github_dark&hide_border=true" height="170">
-
+<img src="https://github-readme-stats.vercel.app/api?username=Arun8888stark&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff66&text_color=00ff66&icon_color=00ff66">
 </p>
 
-## `> Contribution Graph`
+<pre style="color:#00ff66;background-color:#0d1117;border:0;font-family:monospace;font-size:13px;line-height:1.35;">
+
+─────────────────── Contribution ────────────────
+
+</pre>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun8888stark&theme=github-compact&hide_border=true">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun8888stark&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true">
 </p>
 
-## `> Connect`
+<pre style="color:#00ff66;background-color:#0d1117;border:0;font-family:monospace;font-size:13px;line-height:1.35;">
 
-<p align="center">
+──────────────────── Connect ────────────────────
 
-<a href="https://www.linkedin.com/in/arun-sandosh-subramaniam-b547b2374">
-<img src="https://img.shields.io/badge/LinkedIn-Arun%20Sandosh%20Subramaniam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+LinkedIn........... https://www.linkedin.com/in/arun-sandosh-subramaniam-b547b2374
+LeetCode........... https://leetcode.com/u/Arun_Sandosh/
+Email.............. arun8888stark@gmail.com
+GitHub............. https://github.com/Arun8888stark
 
-<a href="https://leetcode.com/u/Arun_Sandosh/">
-<img src="https://img.shields.io/badge/LeetCode-Arun_Sandosh-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
+─────────────────────────────────────────────────
 
-<a href="mailto:arun8888stark@gmail.com">
-<img src="https://img.shields.io/badge/Email-arun8888stark%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+              BUILD • LEARN • CREATE • REPEAT
 
-<a href="https://github.com/Arun8888stark">
-<img src="https://img.shields.io/badge/GitHub-Arun8888stark-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+─────────────────────────────────────────────────
 
-</p>
-
-<p align="center">
-
-```text
-────────────────────────────────────────────────────────
-             BUILD • LEARN • CREATE • REPEAT
-────────────────────────────────────────────────────────
-```
-
-</p>
+</pre>
